@@ -1,0 +1,15 @@
+/workspaces/Module3Challenge/ZooAnimalsAssignment/obj/Debug/net8.0/ZooAnimalsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Module3Challenge/ZooAnimalsAssignment/obj/Debug/net8.0/ZooAnimalsAssignment.AssemblyInfoInputs.cache
+/workspaces/Module3Challenge/ZooAnimalsAssignment/obj/Debug/net8.0/ZooAnimalsAssignment.AssemblyInfo.cs
+/workspaces/Module3Challenge/ZooAnimalsAssignment/obj/Debug/net8.0/ZooAnimalsAssignment.csproj.CoreCompileInputs.cache
+/workspaces/Module3Challenge/ZooAnimalsAssignment/obj/Debug/net8.0/ZooAnimalsAssignment.sourcelink.json
+/workspaces/Module3Challenge/ZooAnimalsAssignment/bin/Debug/net8.0/ZooAnimalsAssignment
+/workspaces/Module3Challenge/ZooAnimalsAssignment/bin/Debug/net8.0/ZooAnimalsAssignment.deps.json
+/workspaces/Module3Challenge/ZooAnimalsAssignment/bin/Debug/net8.0/ZooAnimalsAssignment.runtimeconfig.json
+/workspaces/Module3Challenge/ZooAnimalsAssignment/bin/Debug/net8.0/ZooAnimalsAssignment.dll
+/workspaces/Module3Challenge/ZooAnimalsAssignment/bin/Debug/net8.0/ZooAnimalsAssignment.pdb
+/workspaces/Module3Challenge/ZooAnimalsAssignment/obj/Debug/net8.0/ZooAnimalsAssignment.dll
+/workspaces/Module3Challenge/ZooAnimalsAssignment/obj/Debug/net8.0/refint/ZooAnimalsAssignment.dll
+/workspaces/Module3Challenge/ZooAnimalsAssignment/obj/Debug/net8.0/ZooAnimalsAssignment.pdb
+/workspaces/Module3Challenge/ZooAnimalsAssignment/obj/Debug/net8.0/ZooAnimalsAssignment.genruntimeconfig.cache
+/workspaces/Module3Challenge/ZooAnimalsAssignment/obj/Debug/net8.0/ref/ZooAnimalsAssignment.dll
